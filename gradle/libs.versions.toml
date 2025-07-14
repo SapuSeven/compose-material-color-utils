@@ -1,7 +1,7 @@
 [versions]
-kotlin = "2.1.21"
-mavenPublish = "0.32.0"
-error_prone_annotations = "2.38.0"
+kotlin = "2.2.0"
+mavenPublish = "0.34.0"
+error_prone_annotations = "2.40.0"
 
 [libraries]
 error_prone_annotations = { module = "com.google.errorprone:error_prone_annotations", version.ref = "error_prone_annotations" }
